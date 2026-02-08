@@ -1,0 +1,5 @@
+Nombre del proyecto: DPL Web
+Autor: snortoff
+Versión: 2.0
+Descripción: Este archivo contiene información de la versión 2 del proyecto.
+Fecha de creación: 08/02/2026
